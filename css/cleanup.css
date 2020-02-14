@@ -27,4 +27,7 @@
   display:none;
 }
 
-#tag-7
+#wall div.parent div > #tag-7.slick{
+  display: none;
+}
+}
